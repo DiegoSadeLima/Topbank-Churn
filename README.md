@@ -17,13 +17,13 @@ Preocupados com a queda dessa métrica, o time de Analytics da TopBottom, contra
 
 ## Resultados:
 
-### 1 - Qual a taxa atual de Churn da TopBank?
+### 1 - Taxa atual de Churn da TopBank:
 A porcentagem de Churn é de 20.37% do total de clientes
 
 
-### 2 - Qual a Performance do modelo em classificar os clientes como churns?
+### 2 - A Performance do modelo em classificar os clientes como churns:
 A performance do modelo está em 86 %.
 
 
-### 3 - Qual o retorno esperado, em termos de faturamento, se a empresa utilizar seu modelo para evitar o churn dos clientes?
+### 3 - O retorno esperado, em termos de faturamento:
 Sendo 86% a performance do modelo de previsão de Churn, ações podem ser tomadas, umas vez que saberíamos em quais clientes deveríamos investir em incentivo financeiro. Se 70 % desses clientes renovassem o contrato, a empresa lucraria um valor estimado em 27 192427.24 euros.
