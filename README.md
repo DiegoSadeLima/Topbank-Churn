@@ -15,7 +15,7 @@ Nos últimos meses, o time de Analytics percebeu que a taxa de clientes cancelan
 
 Preocupados com a queda dessa métrica, o time de Analytics da TopBottom, contratou você como consultor de Data Science para criar um plano de ação, com o objetivo de reduzir a evasão de clientes, ou seja, impedir que o cliente cancele seu contrato e não o renove por mais 12 meses. Essa evasão, nas métricas de negócio, é conhecida como Churn.
 
-## Perguntas:
+## Resultados:
 
 ### 1 - Qual a taxa atual de Churn da TopBank?
 A porcentagem de Churn é de 20.37% do total de clientes
