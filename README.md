@@ -26,4 +26,4 @@ A performance do modelo em classificar os clientes como churn é de 86 %.
 
 
 ### 3 - O retorno esperado em termos de faturamento:
-Sendo 86% a performance do modelo de previsão de Churn, ações podem ser tomadas, umas vez que saberíamos em quais clientes deveríamos investir em incentivo financeiro. Se 70 % desses clientes renovassem o contrato, a empresa lucraria um valor estimado em 27 192427.24 euros.
+Sendo 86% a performance do modelo de previsão de Churn, ações podem ser tomadas, umas vez que saberíamos em quais clientes deveríamos investir em incentivo financeiro. Se 70 % desses clientes renovassem o contrato, a empresa lucraria um valor estimado em  23385487.42 euros.
