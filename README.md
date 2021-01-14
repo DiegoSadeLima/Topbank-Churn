@@ -21,9 +21,9 @@ Preocupados com a queda dessa métrica, o time de Analytics da TopBottom, contra
 A porcentagem de Churn é de 20.37% do total de clientes
 
 
-### 2 - A Performance do modelo em classificar os clientes como churns:
-A performance do modelo está em 86 %.
+### 2 - A Performance do modelo:
+A performance do modelo em classificar os clientes como churn é de 86 %.
 
 
-### 3 - O retorno esperado, em termos de faturamento:
+### 3 - O retorno esperado em termos de faturamento:
 Sendo 86% a performance do modelo de previsão de Churn, ações podem ser tomadas, umas vez que saberíamos em quais clientes deveríamos investir em incentivo financeiro. Se 70 % desses clientes renovassem o contrato, a empresa lucraria um valor estimado em 27 192427.24 euros.
