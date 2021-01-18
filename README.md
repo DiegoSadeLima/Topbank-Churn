@@ -35,4 +35,4 @@ The model's performance in classifying customers as churn is about 86%.
 
 ### 3 - The expected return in terms of revenue:
 
-With 86% being the performance of the Churn forecasting model, actions can be taken, since we would know which clients we should invest in financial incentives. If 70% of these customers renew the contract, the company would profit an estimated 23385487.42 euros.
+With 83.75% being the performance of the Churn forecasting model, actions can be taken, since we would know which clients we should invest in financial incentives. If 70% of these customers renew the contract, the company would profit an estimated 22773657.81 EUR.
